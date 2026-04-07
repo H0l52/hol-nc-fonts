@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'magi';
+    src: url('AlphabetoftheMagi.woff2') format('woff2'),
+        url('AlphabetoftheMagi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'arciela';
+    src: url('Ar-Ciela-Compartment.woff2') format('woff2'),
+        url('Ar-Ciela-Compartment.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'hymmnos';
+    src: url('Hymmnos.woff2') format('woff2'),
+        url('Hymmnos.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'pulsian';
+    src: url('Pulsian.woff2') format('woff2'),
+        url('Pulsian.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'barazhadbold_italic';
+    src: url('barazhad_bold_italic-webfont.woff2') format('woff2'),
+         url('barazhad_bold_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'barazhadbold';
+    src: url('barazhad_bold-webfont.woff2') format('woff2'),
+         url('barazhad_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'barazhaditalic';
+    src: url('barazhad_italic-webfont.woff2') format('woff2'),
+         url('barazhad_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'barazhad';
+    src: url('barazhad-webfont.woff2') format('woff2'),
+         url('barazhad-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
